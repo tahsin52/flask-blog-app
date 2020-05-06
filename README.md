@@ -1,3 +1,4 @@
 # Y-TBLOG
 # Basic python web site
-Volkan ve Fahri Frontend'i yapıcak
+
+Volkan and Fahri will make frontend
